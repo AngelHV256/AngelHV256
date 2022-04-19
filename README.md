@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelHV256
-- 👀 I’m interested in ... Learning python, javascript, Css and  react full time
-- 🌱 I’m currently learning ... react and python 
+- 👀 I’m interested in ... TI, video games, music, draw
+- 🌱 I’m currently learning ... HTML5, CSS, JavaScript and React
 - 💞️ I’m looking to collaborate on ... front end 
 - 📫 How to reach me ... https://www.instagram.com/angelhv_256/
 
